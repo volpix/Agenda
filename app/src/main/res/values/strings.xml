@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Ag">Agregar</string>
+    <string name="Lis">Listar</string>
+    <string name="Eli">Eliminar</string>
+    <string name="Name">Nombre</string>
+    <string name="tel">Telefono</string>
+    <string name="Dir">Direccion</string>
+    <string name="email">Correo</string>
+    <string name="At">Atras</string>
+    <string name="Listar">Listar</string>
+</resources>
